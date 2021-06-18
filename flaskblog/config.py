@@ -5,5 +5,5 @@ class Config:
     MAIL_SERVER             = 'smtp.googlemail.com'
     MAIL_PORT               = 587
     MAIL_USE_TLS            = True
-    MAIL_USERNAME           = 'finnformica@gmail.com' # and this
-    MAIL_PASSWORD           = 'nqlahasxbjlnkkfd' # google app password / and this
+    MAIL_USERNAME           = 'myemail@email.com' # and this
+    MAIL_PASSWORD           = 'xxxxxxxxxxxxxxxx' # google app password / and this
